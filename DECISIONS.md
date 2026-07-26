@@ -84,3 +84,20 @@ Exploration and consolidation are separate phases.
 **Reason**
 
 Ideas should only become part of the project after explicit review and approval.
+
+---
+
+## 2026-07-26
+
+### Organizing Principle
+
+**Decision**
+
+Chronicle is organized around attention, not projects.
+
+Projects remain the primary structure through which users define and pursue their goals, but the deeper purpose of Chronicle is to help people navigate the direction of their attention.
+
+**Reason**
+
+Attention is the fundamental resource from which projects, identity, and ultimately the life a person builds emerge. Organizing Chronicle around attention provides a single principle that connects all core capabilities.
+
