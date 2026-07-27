@@ -1,6 +1,6 @@
 Chronicle — Core Capabilities
 
-Chronicle is a personal navigation system that helps people consciously become the person they have chosen to be.
+Chronicle is a personal navigation system that helps people become more aware of how their attention is being directed and learn to navigate it toward the life they want to build.
 
 Its capabilities collaborate as one system. None may replace the user's judgment, create purpose, or act outside goals and commitments explicitly brought into Chronicle.
 
@@ -14,7 +14,7 @@ Primary Output
 
 Understand
 
-What is happening, and how is it affecting the life the user wants to build?
+How is the user's attention being directed, and what is it building?
 
 A living, revisable model of the user
 
@@ -150,6 +150,8 @@ Organize transforms user-defined goals into short, visible, adjustable roadmaps 
 
 It does not organize the user's life. It organizes only the projects, goals, and commitments that the user explicitly chooses to bring into Chronicle.
 
+Organize does not allocate time first. It helps allocate attention. Time becomes meaningful only when attention is intentionally directed.
+
 Core Question
 
 What is the smallest version of this action that we could realistically start today?
@@ -241,8 +243,6 @@ External Opportunities
 
 Chronicle may periodically search for resources or opportunities related to active projects. Results must be presented as optional suggestions and shown only at receptive moments.
 
-Product
-
 ## Product
 
 Organize produces two complementary outputs.
@@ -324,6 +324,8 @@ Redirect helps the user continue toward chosen goals when the original path is n
 It does not judge the past or attempt to restore a dead plan. It helps create the next viable route.
 
 Core Principle
+
+Redirect reshapes the project so it can realistically fit within the user's available attention.
 
 Things change. Chronicle recalculates without punishment.
 
@@ -452,6 +454,8 @@ Operate outside the user's chosen vision.
 Purpose
 
 Reflect creates a deliberate pause in the journey to reveal where the user was, where they are now, and who they are becoming.
+
+It reveals how the direction of the user's attention has gradually shaped their identity.
 
 It makes invisible accumulation visible. Its role is clarity, not applause.
 
@@ -692,6 +696,12 @@ All capabilities must:
 Work with the user, never above the user.
 
 Operate only within goals and commitments chosen by the user.
+
+Never define the direction of the user's attention independently of the user's chosen goals, projects, and values.
+
+Recommend where attention may be most useful based on the goals, projects, and values the user has explicitly chosen.
+
+Help users navigate their attention toward what they have chosen, without deciding for them what should matter.
 
 Ask for approval before changing canonical plans, priorities, or interpretations.
 
