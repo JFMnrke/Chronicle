@@ -14,15 +14,15 @@ Primary Output
 
 Understand
 
-How is the user's attention being directed, and what is it building?
+How are the user's attention, behavior, and context shaping the life they are building?
 
-A living, revisable model of the user
+Clearer self-understanding, supported by a living, revisable model
 
 Organize
 
-What is the smallest realistic way to move a chosen project forward?
+What structure allows this chosen project to move forward within the reality of this user's life?
 
-A short, visible, adjustable roadmap
+A personalized, visible, adjustable route that allows the project to coexist with the user's life.
 
 Redirect
 
@@ -48,9 +48,11 @@ Chronicle also observes activity, context, and transitions in the background. Ob
 
 Purpose
 
-Understand transforms observations into shared awareness between Chronicle and the user about the user.
+Understand helps the user understand themselves more clearly by making visible how attention, behavior, context, and change are shaping the life they are living and the identity they are gradually constructing.
 
-Its purpose is not to explain, label, or decode a person. It helps the user become more conscious of how their behavior and environment affect the life they are trying to build.
+Its purpose is not to explain, label, or decode a person. It creates the conditions for awareness: the user can recognize patterns that may be difficult to perceive while living through them, decide what they want to preserve or change, and choose whether to direct their attention, time, and resources differently.
+
+Chronicle does not decide that a pattern should change. Understanding makes choice more informed; the choice remains with the user.
 
 Core Principle
 
@@ -67,28 +69,41 @@ Open a brief conversation
 Confirm, reject, or refine the hypothesis
   ↓
 Update the living model
+  ↓
+Make relevant understanding visible to the user
 
 Chronicle distinguishes between changes in the person and changes in the person's environment. A new job, schedule, relationship, location, illness, or responsibility may explain a behavioral change without implying that the user's identity has changed.
 
-Product
+The living model exists to support the user's understanding of themselves. It is an instrument, not the purpose of Understand.
 
-Understand produces a living model of the user.
+## Product
+
+Understand produces two inseparable outputs.
+
+### For the User
+
+A clearer understanding of how their attention, behavior, environment, and repeated choices are shaping their current life.
+
+Understand makes relevant patterns visible so the user can examine them, give them meaning, and decide whether anything should change.
+
+Awareness does not create an obligation to act. The user may choose to preserve a pattern, change it, investigate it further, or do nothing.
+
+### For Chronicle
+
+A living, revisable model of the user that allows the system to preserve confirmed understanding across time.
 
 The model may include confirmed and revisable knowledge about:
 
-Motivators and sources of friction.
-
-Patterns associated with energy, stress, rest, attention, and avoidance.
-
-Useful windows for conversation.
-
-Forms of redirection that tend to help.
-
-Relationships between behavior, context, and chosen goals.
-
-Changes in the user's environment.
+- Motivators and sources of friction.
+- Patterns associated with energy, stress, rest, attention, and avoidance.
+- Useful windows for conversation.
+- Forms of redirection that tend to help.
+- Relationships between behavior, context, and chosen goals.
+- Changes in the user's environment.
 
 The model is never complete. It must remain revisable and capable of discarding prior explanations when new evidence contradicts them.
+
+The model exists to help the user understand themselves and to support Chronicle's other capabilities. It must never become a hidden authority over who the user is or what they should want.
 
 Interaction Style
 
@@ -142,21 +157,48 @@ Treat contradiction or behavioral change as a system error.
 
 Claim that the user has been permanently understood.
 
+Decide that an observed pattern should be changed.
+
+Turn an observation into a goal, project, or priority without the user's explicit choice.
+
+Use understanding of the user to steer their attention toward outcomes they did not choose.
+
 2. Organize
 
 Purpose
 
-Organize transforms user-defined goals into short, visible, adjustable roadmaps focused on the next controllable milestone.
+Organize turns a user-chosen intention into a structure capable of surviving contact with the user's real life.
+It does not merely break a goal into tasks. It brings together two realities: what the project requires and what the user's current life can realistically sustain.
 
-It does not organize the user's life. It organizes only the projects, goals, and commitments that the user explicitly chooses to bring into Chronicle.
+The project brings its own demands, dependencies, uncertainty, resources, and constraints.
+The user brings a life already in motion: attention, time, energy, responsibilities, rhythms, friction, preferences, relationships, and changing circumstances.
 
-Organize does not allocate time first. It helps allocate attention. Time becomes meaningful only when attention is intentionally directed.
+Using the understanding developed through Understand, Organize brings these two realities together and proposes a route designed for this person, in this moment.
+
+Its purpose is not to make every project smaller, nor to make the user more productive. It is to create enough structure for meaningful progress while allowing the project to coexist with the rest of the user's life.
+
+Chronicle proposes the structure. The user remains the author of the project and decides what becomes part of the plan.
 
 Core Question
 
-What is the smallest version of this action that we could realistically start today?
+What is the next meaningful stretch of this project that can realistically coexist with the user's current life?
+The appropriate magnitude of a step cannot be determined from the task alone. It depends on both the reality of the project and the reality of the person carrying it.
 
-The magnitude of a step is not determined by the task alone. It depends on the user, their available time, energy, context, and real friction to begin. Understand provides the model that allows Organize to propose an appropriate magnitude.
+Understand provides relevant knowledge about the user's attention, energy, context, rhythms, friction, and changing environment. 
+
+Organize combines that understanding with the requirements of the project to propose the next appropriate stretch.
+
+Project reality + User reality → Next appropriate stretch
+
+Sometimes that stretch will be small.
+
+Sometimes it will require sustained effort.
+
+Sometimes the correct next step will be research, waiting, obtaining a resource, changing a dependency, or resolving uncertainty before further planning is useful.
+
+The objective is not minimum effort.
+
+The objective is a viable route.
 
 Project Creation
 
