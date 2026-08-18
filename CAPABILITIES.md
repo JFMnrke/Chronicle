@@ -212,7 +212,9 @@ Desired state.
 
 Approximate time horizon.
 
-Chronicle then opens a short conversation to propose the first structure. Chronicle proposes; the user reviews, changes, and approves.
+Chronicle then opens a short conversation to understand enough context to propose the first structure. When relevant, this conversation explores why the project matters now, without turning that question into a required field or a philosophical exercise.
+
+Chronicle proposes; the user reviews, changes, and approves.
 
 Planning Model
 
@@ -220,9 +222,9 @@ Organize does not attempt to predict an entire long-term path. It plans the next
 
 Project
 └── Current Milestone
-    ├── Small Step
-    ├── Small Step
-    ├── Small Step
+    ├── Step
+    ├── Step
+    ├── Step
     └── Review Point
 
 At the review point, Chronicle and the user:
@@ -239,23 +241,23 @@ Basic Concepts
 
 Project
 
-A broad objective chosen by the user.
+A user-chosen intention to move from a current state toward a desired state.
 
 Milestone
 
-The next meaningful and controllable result.
+The next meaningful and controllable result that moves the project toward its desired state.
 
 Step
 
-A small action that contributes directly to the current milestone.
+An action that contributes directly to the current milestone and is sized according to what the project requires and what the user can realistically sustain.
 
 Opportunity
 
-Something Chronicle discovers that may help the project but is not a commitment.
+Something Chronicle identifies that may help the project move forward, but does not become part of the plan unless the user chooses it.
 
 Resource
 
-Material saved for possible use.
+Material, information, or a tool that may support the project without becoming part of the plan itself.
 
 Steps belong to the plan. Opportunities and resources do not become obligations unless the user chooses them.
 
@@ -263,27 +265,41 @@ Project States
 
 Chronicle begins with three simple states:
 
-Active: currently receiving attention.
+Active: a project that remains within the user's active field of attention and is intended to keep moving forward when viable opportunities to advance appear.
 
-Paused: deliberately resting.
+Paused: a project the user still considers meaningful, but has intentionally removed from active attention for a period of time determined by the user.
 
-Pending: known, but not currently active.
+Pending: a project the user wants to pursue, but whose current structure does not yet fit within the reality of the user's life. It remains pending while Chronicle and the user look for a viable way to make the project and the user's current circumstances compatible.
 
-A phase such as gathering information should normally be represented as the current milestone rather than as another project state.
+Project states describe the project's relationship with the user's active attention, not the type of work currently happening within the project. Research, reflection, preparation, waiting, or execution may all occur while a project remains Active. These phases should be represented through milestones and steps rather than through additional project states.
 
 Priorities and Capacity
 
-The user defines declared priorities. Chronicle observes lived attention and may reveal a mismatch without changing priorities automatically.
+The user defines what matters and which projects they want to pursue. Chronicle helps determine how much active attention those commitments can realistically receive without creating a system the user's life cannot sustain.
+
+Before a project becomes Active, Organize evaluates its requirements against the user's current commitments, available attention, context, and intended time horizon.
+
+When the proposed combination does not fit, Chronicle makes the incompatibility visible and helps the user explore tradeoffs: reduce the intensity of existing projects, reshape the new project, extend its horizon, pause another commitment, or leave the project Pending until a viable structure can be found.
+
+Chronicle does not limit the size of the user's ambitions. It limits the amount of unsupported structure it is willing to pretend can coexist.
+
+Its role is not to say that a dream is too large. It is to make sure the dream has roots before asking the user to give it wings.
 
 Example:
 
-“Your secondary project has received most of your attention recently. Would you like to change the priority order or keep the current plan?”
+“Adding this project at the pace you proposed would require more attention than your current commitments and schedule appear able to sustain. We could reduce the intensity of one of your active projects, extend this project's timeline, or keep it Pending until a viable structure becomes possible. What would you prefer?”
 
-Chronicle should recommend approximately three active projects and initially allow no more than five without a prioritization conversation. The purpose is to prevent the system itself from creating overload.
+Chronicle should not use a universal number of active projects as a fixed limit. The amount of active work a user can realistically sustain depends on the demands of each project, the user's current life, and the amount of attention those commitments require.
+
+When the combination of active projects becomes incompatible with the user's available attention, Chronicle should make that tension visible and open a prioritization conversation before adding more commitments.
 
 External Opportunities
 
-Chronicle may periodically search for resources or opportunities related to active projects. Results must be presented as optional suggestions and shown only at receptive moments.
+Chronicle may periodically search for resources or opportunities that could help an active project move forward.
+
+Relevance to the project is not enough. Organize should also consider whether the opportunity can realistically fit within the user's current context, attention, and commitments before presenting it.
+
+Opportunities must remain optional suggestions. They do not become steps, commitments, or changes to the project unless the user chooses to incorporate them.
 
 ## Product
 
@@ -291,70 +307,78 @@ Organize produces two complementary outputs.
 
 ### Frontend
 
-A short-range, user-approved roadmap showing:
+A short-range, user-approved roadmap showing the next viable stretch of the project within the user's current life.
 
-* The project and its priority.
-* The current milestone.
-* The small steps that lead to that milestone.
-* The next visible victory.
-* The next review point.
-* Optional opportunities and resources that may support the project.
+It shows:
 
-The frontend keeps the path visible without exposing the full complexity of the system.
+The project and its declared priority.
+Its current status: Active, Paused, or Pending.
+The current milestone.
+The approved steps that lead toward that milestone.
+The next visible victory.
+The next review point.
+Optional opportunities and resources that may support the project.
+
+The frontend keeps the route visible and its current demands understandable without exposing the full complexity of the system underneath.
 
 ### Backend
 
-A living project model that represents the best currently approved route toward the user's goal.
+A living project model that represents the best currently approved route for allowing the project to move forward within the user's life.
 
 The model contains:
 
-* The project's current state and desired state.
-* Its approximate time horizon.
-* Its declared priority.
-* Its current status: Active, Paused, or Pending.
-* The current milestone.
-* The approved small steps.
-* The estimated magnitude of each step according to time, effort, context, and friction to begin.
-* The uncertainties that prevent later stages from being planned responsibly.
-* The next review point.
-* Optional opportunities and saved resources.
-* The relationship between planned actions and what actually occurred.
-* The history of approved adjustments to the roadmap.
+The project's current state and desired state.
+Its approximate time horizon.
+Its declared priority.
+Its current status: Active, Paused, or Pending.
+The current milestone.
+The approved steps.
+The estimated magnitude of each step according to time, effort, context, and friction to begin.
+The relevant conditions in the user's life that affect the viability of the current route.
+The uncertainties that prevent later stages from being planned responsibly.
+The next review point.
+Optional opportunities and saved resources.
+The relationship between planned actions and what actually occurred.
+The history of approved adjustments to the roadmap.
 
-The backend does not attempt to describe the entire path in advance. It maintains only the next controllable stretch and preserves enough context to reorganize the project when circumstances change.
+The backend does not attempt to describe the entire path in advance. It maintains only the next controllable stretch and enough context to reorganize the project when either the project or the user's reality changes.
 
-Organize uses the living user model produced by Understand to propose realistic step sizes, appropriate timing, and a sustainable level of intensity. These proposals become part of the project model only after user approval.
+Organize uses relevant knowledge from the living user model produced by Understand to propose realistic step sizes, timing, and levels of intensity. These proposals become part of the project model only after user approval.
 
 ### System Relationships
 
 Organize shares:
 
-* Work patterns, sustained rhythms, friction, and preferred step magnitudes with Understand.
-* Missed, delayed, rejected, or unworkable plans with Redirect.
-* Milestones, pauses, priority changes, and approved adjustments with Reflect.
-* Evidence of completed milestones and meaningful progress with Grow.
+Planned versus actual progress, recurring friction, sustained rhythms, and evidence about which project structures proved viable or unworkable with Understand.
+Missed, delayed, rejected, or no-longer-viable routes with Redirect.
+Milestones, pauses, priority changes, and approved adjustments with Reflect.
+Evidence of completed milestones and meaningful progress with Grow.
 
 Information also flows back into Organize:
 
-* Understand provides updated knowledge about the user and their environment.
-* Redirect provides approved route adjustments.
-* Reflect may lead the user to revise priorities, milestones, or the project itself.
-* Grow may reveal that the user is ready for a larger challenge, but it cannot expand the plan without approval.
+Understand provides relevant, confirmed, and revisable understanding about the user and their environment.
+Redirect provides approved route adjustments when the existing structure no longer fits.
+Reflect may lead the user to revise priorities, milestones, or the project itself.
+Grow may provide evidence that supports a different level of challenge, but Organize cannot expand or intensify a project without the user's approval.
 
 ## Boundaries
 
 Organize must never:
 
-* Organize areas of life the user did not include.
-* Turn suggestions into commitments automatically.
-* Impose dates, priorities, or plans without approval.
-* Fill the user's calendar.
-* Assume faster progress is always better.
-* Treat a paused project as a failed project.
-* Plan beyond reasonable uncertainty.
-* Present estimated step magnitude as objective fact.
-* Modify the living project model without user approval.
-* Fragment a project so extensively that planning creates more freeze.
+*Organize areas of life the user did not choose to bring into Chronicle.
+*Turn suggestions, opportunities, or resources into commitments automatically.
+*Impose dates, priorities, project states, or plans without user approval.
+*Fill the user's calendar or attempt to control every available moment.
+*Assume faster progress, greater intensity, or smaller steps are inherently better.
+*Treat the user's current circumstances as evidence of their permanent capacity.
+*Limit the size of the user's ambitions because their current life cannot yet sustain them.
+*Present an incompatible combination of projects, commitments, and timelines as realistically sustainable without making the tradeoffs visible.
+*Treat a Paused or Pending project as a failed project.
+*Confuse research, reflection, preparation, or waiting with lack of progress when they are legitimate parts of an Active project.
+*Plan beyond reasonable uncertainty.
+*Present estimates of effort, capacity, timing, or step magnitude as objective facts.
+*Modify the living project model without user approval.
+*Fragment a project so extensively that the structure itself creates more friction or freeze.
 
 
 3. Redirect
