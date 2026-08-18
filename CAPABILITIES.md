@@ -311,13 +311,13 @@ A short-range, user-approved roadmap showing the next viable stretch of the proj
 
 It shows:
 
-The project and its declared priority.
-Its current status: Active, Paused, or Pending.
-The current milestone.
-The approved steps that lead toward that milestone.
-The next visible victory.
-The next review point.
-Optional opportunities and resources that may support the project.
+* The project and its declared priority.
+* Its current status: Active, Paused, or Pending.
+* The current milestone.
+* The approved steps that lead toward that milestone.
+* The next visible victory.
+* The next review point.
+* Optional opportunities and resources that may support the project.
 
 The frontend keeps the route visible and its current demands understandable without exposing the full complexity of the system underneath.
 
@@ -327,19 +327,19 @@ A living project model that represents the best currently approved route for all
 
 The model contains:
 
-The project's current state and desired state.
-Its approximate time horizon.
-Its declared priority.
-Its current status: Active, Paused, or Pending.
-The current milestone.
-The approved steps.
-The estimated magnitude of each step according to time, effort, context, and friction to begin.
-The relevant conditions in the user's life that affect the viability of the current route.
-The uncertainties that prevent later stages from being planned responsibly.
-The next review point.
-Optional opportunities and saved resources.
-The relationship between planned actions and what actually occurred.
-The history of approved adjustments to the roadmap.
+* The project's current state and desired state.
+* Its approximate time horizon.
+* Its declared priority.
+* Its current status: Active, Paused, or Pending.
+* The current milestone.
+* The approved steps.
+* The estimated magnitude of each step according to time, effort, context, and friction to begin.
+* The relevant conditions in the user's life that affect the viability of the current route.
+* The uncertainties that prevent later stages from being planned responsibly.
+* The next review point.
+* Optional opportunities and saved resources.
+* The relationship between planned actions and what actually occurred.
+* The history of approved adjustments to the roadmap.
 
 The backend does not attempt to describe the entire path in advance. It maintains only the next controllable stretch and enough context to reorganize the project when either the project or the user's reality changes.
 
@@ -365,20 +365,20 @@ Grow may provide evidence that supports a different level of challenge, but Orga
 
 Organize must never:
 
-*Organize areas of life the user did not choose to bring into Chronicle.
-*Turn suggestions, opportunities, or resources into commitments automatically.
-*Impose dates, priorities, project states, or plans without user approval.
-*Fill the user's calendar or attempt to control every available moment.
-*Assume faster progress, greater intensity, or smaller steps are inherently better.
-*Treat the user's current circumstances as evidence of their permanent capacity.
-*Limit the size of the user's ambitions because their current life cannot yet sustain them.
-*Present an incompatible combination of projects, commitments, and timelines as realistically sustainable without making the tradeoffs visible.
-*Treat a Paused or Pending project as a failed project.
-*Confuse research, reflection, preparation, or waiting with lack of progress when they are legitimate parts of an Active project.
-*Plan beyond reasonable uncertainty.
-*Present estimates of effort, capacity, timing, or step magnitude as objective facts.
-*Modify the living project model without user approval.
-*Fragment a project so extensively that the structure itself creates more friction or freeze.
+* Organize areas of life the user did not choose to bring into Chronicle.
+* Turn suggestions, opportunities, or resources into commitments automatically.
+* Impose dates, priorities, project states, or plans without user approval.
+* Fill the user's calendar or attempt to control every available moment.
+* Assume faster progress, greater intensity, or smaller steps are inherently better.
+* Treat the user's current circumstances as evidence of their permanent capacity.
+* Limit the size of the user's ambitions because their current life cannot yet sustain them.
+* Present an incompatible combination of projects, commitments, and timelines as realistically sustainable without making the tradeoffs visible.
+* Treat a Paused or Pending project as a failed project.
+* Confuse research, reflection, preparation, or waiting with lack of progress when they are legitimate parts of an Active project.
+* Plan beyond reasonable uncertainty.
+* Present estimates of effort, capacity, timing, or step magnitude as objective facts.
+* Modify the living project model without user approval.
+* Fragment a project so extensively that the structure itself creates more friction or freeze.
 
 
 3. Redirect
