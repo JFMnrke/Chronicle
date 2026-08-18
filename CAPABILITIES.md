@@ -227,6 +227,24 @@ Project
     ├── Step
     └── Review Point
 
+Steps are not appointments by default.
+
+A step represents an available way to move the current milestone forward. It does not need to be assigned to a fixed moment unless the user chooses to schedule it.
+
+Chronicle may surface relevant steps when the user's context creates a viable opportunity to advance. These invitations should consider available time, attention, energy, environment, and the nature of the step.
+
+Chronicle is not designed to occupy every available moment or turn free time into productive time.
+
+Its role is to inhabit moments of unchosen drift: periods in which the user's attention is being carried somewhere without a deliberate decision, and where a relevant project could offer another meaningful direction.
+
+Deliberately chosen rest, leisure, boredom, play, and unstructured time are not gaps for Chronicle to optimize.
+
+Chronicle's presence should remain intentionally limited, configurable, and easy to reject. An invitation should feel like a hand being offered, not a demand for attention.
+
+Chronicle must never become another system competing to capture the user's attention. It should avoid compulsive engagement loops, excessive gamification, artificial urgency, or reward structures designed to keep the user inside the product.
+
+Every intervention should return a decision to the user: continue with what they are doing, move toward a project, rest, or choose another direction. Chronicle creates awareness of the choice; it does not make the choice.
+
 At the review point, Chronicle and the user:
 
 Review what happened.
@@ -349,17 +367,17 @@ Organize uses relevant knowledge from the living user model produced by Understa
 
 Organize shares:
 
-Planned versus actual progress, recurring friction, sustained rhythms, and evidence about which project structures proved viable or unworkable with Understand.
-Missed, delayed, rejected, or no-longer-viable routes with Redirect.
-Milestones, pauses, priority changes, and approved adjustments with Reflect.
-Evidence of completed milestones and meaningful progress with Grow.
+* Planned versus actual progress, recurring friction, sustained rhythms, and evidence about which project structures proved viable or unworkable with Understand.
+* Missed, delayed, rejected, or no-longer-viable routes with Redirect.
+* Milestones, pauses, priority changes, and approved adjustments with Reflect.
+* Evidence of completed milestones and meaningful progress with Grow.
 
 Information also flows back into Organize:
 
-Understand provides relevant, confirmed, and revisable understanding about the user and their environment.
-Redirect provides approved route adjustments when the existing structure no longer fits.
-Reflect may lead the user to revise priorities, milestones, or the project itself.
-Grow may provide evidence that supports a different level of challenge, but Organize cannot expand or intensify a project without the user's approval.
+* Understand provides relevant, confirmed, and revisable understanding about the user and their environment.
+* Redirect provides approved route adjustments when the existing structure no longer fits.
+* Reflect may lead the user to revise priorities, milestones, or the project itself.
+* Grow may provide evidence that supports a different level of challenge, but Organize cannot expand or intensify a project without the user's approval.
 
 ## Boundaries
 
@@ -385,61 +403,75 @@ Organize must never:
 
 Purpose
 
-Redirect helps the user continue toward chosen goals when the original path is no longer viable or no longer fits the user's reality.
+Redirect helps the user preserve continuity by navigating change when an approved route no longer fits, or begins to show meaningful signs that it may no longer fit, the reality of the project or the user's life.
+
+It does not judge the deviation, punish the user, or try to force the previous plan back into place. Instead, Chronicle and the user examine what changed, explore viable alternatives, and define a new route together.
+
+Chronicle helps with navigation, but the user remains in control of the project's direction and decides which route to take.
 
 It does not judge the past or attempt to restore a dead plan. It helps create the next viable route.
 
 Core Principle
 
-Redirect reshapes the project so it can realistically fit within the user's available attention.
+Change is information, not failure.
 
-Things change. Chronicle recalculates without punishment.
+Redirect helps the user navigate change without judgment, guilt, or punishment when an existing route no longer fits.
+
+Chronicle makes the change visible, helps the user explore viable alternatives, and proposes possible routes forward. It never silently redirects the project or takes control of its direction.
+
+The route changes only with the user's approval.
 
 Redirect works by knocking on the user's door. It does not silently alter plans in the background.
 
 Triggers
 
-Redirect may begin when:
+Redirect may begin when there is meaningful evidence that the current route no longer fits, or may soon stop fitting, the reality of the project or the user's life.
 
-A milestone or step extends meaningfully beyond the agreed period.
+Possible signals include:
 
-Understand detects repeated avoidance or loss of interest.
+A milestone or step repeatedly extends beyond the conditions under which it was planned.
+Planned actions consistently create more friction than expected.
+Understand identifies a confirmed change in attention, motivation, energy, context, or environment that affects the route.
+A dependency, resource, opportunity, or constraint within the project changes.
+The user repeatedly declines or postpones attempts to continue along the current route.
+Chronicle can reasonably anticipate that an upcoming part of the plan is unlikely to fit the user's current reality.
+The user explicitly asks to reconsider the route.
 
-The environment changes and the plan no longer fits.
-
-The user repeatedly ignores different invitations to return.
-
-Chronicle can anticipate that an upcoming plan is unrealistic.
-
-The user explicitly asks for help.
-
-Not every missed action requires intervention. Redirect depends on Understand to distinguish a meaningful pattern from ordinary variation.
+Not every deviation requires redirection. Redirect should respond to meaningful patterns or relevant changes, not ordinary variation in human behavior.
 
 Redirect Types
 
 Fragment
 
-Reduce the magnitude of the step.
+Reduce or divide a step when its current magnitude or complexity is preventing the route from fitting the user's reality, while preserving the purpose of the milestone.
 
 Postpone
 
-Move the step to a more realistic moment.
+Move a step to a later moment when timing, context, or current commitments make the existing moment unnecessarily incompatible with the user's reality.
 
 Transform
 
-Change the action while preserving the objective.
+Replace a step with a different action when the original form no longer fits, while preserving the purpose of the milestone.
 
 Pause
 
-Let the project rest deliberately.
+Remove the project from active attention for a period of time determined by the user when continuing to push the current route would create unnecessary conflict with the user's reality.
 
 Reprioritize
 
-Change the attention given to projects after user approval.
+Present alternative ways to redistribute active attention across projects when the current combination of commitments no longer fits the user's reality. Chronicle makes the tradeoffs visible and proposes possible routes, but the user decides what should receive more or less attention.
 
 Abandon
 
-Close a project consciously so its energy can be used elsewhere. Abandonment is not failure.
+Consider closing a project when the user no longer wants to pursue it.
+
+When the reason for abandoning is unclear, or when the user still appears to value the desired outcome but cannot see a viable way to pursue it within their current life, Chronicle may briefly explore that distinction before the project is closed.
+
+If the user still wants the project but its current structure cannot be made compatible with their life, Chronicle should offer Pending as an alternative rather than treating abandonment as the only route.
+
+Chronicle may make the distinction and its consequences visible, but only the user can decide whether to abandon the project.
+
+Abandonment is not failure. It is a valid act of navigation when the user consciously decides that a destination is no longer one they want to pursue.
 
 Preventive Redirect
 
@@ -451,69 +483,75 @@ Example:
 
 Intensity and Silence
 
-Chronicle must never repeat the exact same suggestion twice.
+Redirect should be intentionally sparse.
 
-A possible sequence is:
+Chronicle does not treat every moment of inactivity, delay, or drift as an invitation to intervene. It should appear only when there is a meaningful reason to believe that an intervention may help restore awareness or reveal a viable route.
 
-Offer a relevant opportunity.
+When Chronicle offers a redirect, the user may accept it, reject it, ignore it, or configure when and how similar invitations should appear.
 
-Reframe the value of beginning now.
+Chronicle must not escalate pressure when an invitation is ignored. It should not repeat the same request, manufacture urgency, or keep offering increasingly persuasive versions of the same action.
 
-Reduce the proposed step.
+Silence is information.
 
-Stop.
+When invitations repeatedly go unanswered or are rejected, Redirect should step back. The pattern may be shared with Understand as evidence for a future conversation, but it must not be treated as resistance to overcome.
 
-After repeated silence, Redirect sends the pattern to Understand and waits for a better conversation. The user controls the overall intensity of interventions.
+The user controls the overall intensity, timing, and channels through which Redirect may appear.
 
 Failed Redirects
 
-When repeated redirection strategies fail:
+A redirect has failed when the proposed adjustment does not produce a route the user wants or can realistically follow.
 
-The project should be proposed for Paused status.
+Failure is information. Chronicle should not respond by increasing pressure or repeating variations of the same suggestion.
 
-Redirect stops insisting.
+Instead, it should make the situation explicit and help the user consciously decide what happens next.
 
-Understand opens a future conversation about what changed.
+Possible outcomes include:
 
-The project returns only when the user chooses to reactivate it.
+Keep the project Active and continue exploring other routes.
+Move the project to Paused for a period of time chosen by the user.
+Move the project to Pending when the user still wants the destination but no viable structure currently fits their life.
+Reconsider or abandon the project if the user no longer wants to pursue it.
+Open a conversation with Understand when the repeated difficulty may reveal something worth examining.
+
+Chronicle does not decide which outcome is correct. Its role is to make the consequences and alternatives visible so the user can make the decision consciously.
 
 Product
 
-Redirect produces an approved route adjustment, such as:
+Redirect produces a user-approved navigation decision in response to a route that no longer fits, is beginning to fail, or has failed.
 
-A smaller action.
+That decision may result in:
 
-A different moment.
-
-An alternative action.
-
+A fragmented step.
+A postponed step.
+A transformed step.
 A conscious pause.
+A reprioritization chosen by the user.
+Moving the project to Pending while a viable structure is still being sought.
+Keeping the current route unchanged after considering the available alternatives.
+Abandoning the project consciously.
 
-A changed priority.
+Redirect does not need to produce a change every time it appears. Sometimes its most valuable outcome is making the situation, tradeoffs, and available routes visible so the user can consciously decide to continue as they are.
 
-A decision to abandon.
-
-Its deeper effect is continuity: the path can survive change without turning Chronicle into an adversary.
+Its deeper effect is continuity with agency: the project can survive change without Chronicle taking control of its direction.
 
 Boundaries
 
 Redirect must never:
 
-Punish, shame, or use guilt.
-
-Repeat notifications until the user obeys.
-
-Change goals, plans, or priorities without approval.
-
-Assume rest is failure.
-
-Treat a deviation as evidence about the user's identity.
-
-Use manipulative engagement techniques.
-
-Continue insisting when the user demonstrates no current interest.
-
-Operate outside the user's chosen vision.
+* Punish, shame, guilt, or morally judge the user for changing course, delaying, pausing, or abandoning a project.
+* Treat a failed route as evidence that the user has failed.
+* Interpret silence, rejection, or inaction as resistance that must be overcome.
+* Increase pressure, manufacture urgency, or repeatedly reframe the same suggestion until the user accepts it.
+* Change a step, milestone, priority, project state, or destination without the user's approval.
+* Present one proposed route as the only correct way forward when meaningful alternatives exist.
+* Decide what the user should value more when tradeoffs between projects appear.
+* Assume that every period of drift, inactivity, rest, leisure, or unstructured time should be redirected toward a project.
+* Use notifications, rewards, gamification, or persuasive techniques to make Chronicle itself compete for the user's attention.
+* Confuse “I cannot make this fit right now” with “I no longer want this.”
+* Push a project toward Paused, Pending, or Abandoned without making the distinction and consequences visible to the user.
+* Treat keeping the current route unchanged as an invalid decision after the user has consciously considered the alternatives.
+* Continue intervening when repeated signals indicate that Chronicle should step back.
+* Operate outside projects, goals, or directions the user has chosen to bring into Chronicle.
 
 4. Reflect
 
