@@ -557,89 +557,104 @@ Redirect must never:
 
 Purpose
 
-Reflect creates a deliberate pause in the journey to reveal where the user was, where they are now, and who they are becoming.
+Reflect makes visible how the user's attention and chosen intentions are accumulating into real changes in their life.
 
-It reveals how the direction of the user's attention has gradually shaped their identity.
+Attention shapes what repeatedly occupies a person's time. Repeated patterns of attention influence behavior, behavior can become habit, and habits gradually help shape the life a person is living. Much of this accumulation is difficult to perceive from inside everyday life, especially when attention is being pulled by environments and systems designed to capture it.
 
-It makes invisible accumulation visible. Its role is clarity, not applause.
+Reflect creates enough distance to restore clarity. It shows where the user began, where they are now, what has repeatedly received their attention, and how those choices are changing the habits and patterns that compose their life.
+
+It connects actions to meaning: not only what the user completed, but what is becoming different because of where they have repeatedly chosen to place their attention.
+
+When the evidence shows that the user's attention is moving toward directions they explicitly chose, Reflect can reinforce the importance of continuing. When the evidence shows that attention is repeatedly drifting away from those directions, Reflect makes that visible as well.
+
+Reflect is not a celebration engine or a club of applause. It does not praise every completed step or turn ordinary activity into achievement. Its purpose is clarity: to return awareness to changes that are difficult to notice while they are happening.
+
+It does not define the user's identity. Chronicle can reflect how the user's habits, attention, and lived patterns are changing; the meaning of those changes for who the user is remains theirs.
+
+Its role is to make invisible accumulation visible so the user can see more clearly how their attention is shaping the life they are building.
 
 Core Question
 
-Who am I becoming?
+Who am I becoming through what repeatedly receives my attention?
 
 Ritual
 
-Reflect is not an always-open analytics dashboard. It is a ritual with enough distance to reveal change.
+Reflect is not an always-open analytics dashboard and cannot be triggered on demand. It is a deliberate, primarily surprising ritual that Chronicle initiates only when enough meaningful evidence has accumulated to reveal change the user may not yet be able to perceive from inside daily life.
 
-Its cadence should depend on the magnitude and rhythm of the user's active projects. A quarterly reflection may be a strong default, while more intense contexts may benefit from a monthly reflection. Pilot testing should determine the useful cadence.
+Its timing is determined by evidence, not by a fixed calendar. Chronicle considers the accumulation of attention patterns, behavioral changes, project progress, setbacks, and changes in the user's environment before deciding that a reflection has enough substance to be valuable.
 
-Reflect may also appear when Chronicle detects that motivation is declining and the user may benefit from seeing that prior effort was not meaningless.
+If there is not enough meaningful change to show, Chronicle waits. It must never manufacture a reflection merely to maintain engagement, provide reassurance, or satisfy a desire for recognition.
+
+Reflect may also appear when motivation is weakening and Chronicle has substantial evidence that accumulated progress, regression, or change could restore perspective on a direction the user has already chosen.
+
+The user remains free to ignore, postpone, or dismiss the reflection when it appears. Chronicle controls when a reflection is worth offering; the user controls whether to engage with it.
 
 Product
 
-Reflect produces a Chronicle Wrap: a short, interactive presentation or infographic combining narrative and visual evidence.
+Reflect produces a Chronicle Wrap: a short, surprising, evidence-based reflection that makes accumulated change visible when Chronicle has enough information for that reflection to carry real meaning.
 
-It may include:
+The Wrap is not a summary of completed tasks. It connects the user's attention, repeated choices, project activity, setbacks, and changing circumstances to the habits and patterns that are gradually shaping their life.
 
-The starting point and current point.
+A Chronicle Wrap may show:
 
-Small actions that accumulated.
+Where the user began and where they are now.
+How their attention has been distributed across the directions they chose to pursue.
+Actions and decisions that accumulated into meaningful progress.
+Milestones reached, projects resumed, paused, left Pending, or consciously abandoned.
+Behaviors or habits that are gaining space in the user's life.
+Behaviors or habits the user wanted to reduce that are losing space.
+Areas where attention has drifted away from directions the user explicitly chose.
+Setbacks, interruptions, or repeated friction that materially affected the journey.
+Changes in the user's environment that help explain changes in behavior or progress.
+Relevant patterns already confirmed through Understand.
+Evidence that a chosen intention is becoming more present in the user's lived reality.
+A grounded projection of what may continue changing if the current direction persists.
 
-Milestones and paused paths.
+The Wrap should connect evidence across time rather than present isolated metrics. Its purpose is to help the user see relationships that are difficult to perceive while living through them:
 
-Obstacles that appeared.
+where attention went → what repeated → what began to change → what kind of life those patterns are helping construct.
 
-Changes in behavior or environment.
+Reflect may show both progress and regression. Chronicle must not hide evidence simply because it is uncomfortable or does not support a celebratory narrative. A meaningful reflection may reveal that an intention is becoming real, that a harmful pattern is losing influence, that progress has stalled, or that attention is increasingly moving away from a direction the user previously chose.
 
-Patterns already confirmed through Understand.
+When evidence supports it, Reflect may reinforce commitment by showing the user that small and repeated choices have produced change that was difficult to perceive day to day.
 
-What may happen if the current direction continues.
+This reinforcement must come from evidence, not generic praise. Chronicle does not celebrate every action, manufacture achievements, or turn ordinary activity into a reward.
 
-The expected feeling is surprising clarity: the user sees change that was difficult to perceive while living through it.
+Reflect may describe observable transformation, but it must not assign identity to the user. It can show that writing now occupies a recurring place in someone's life; it cannot decide that the person is a writer. It can show evidence of persistence; it cannot declare that persistence defines who the person is.
 
-Relationship to Setbacks
+The expected feeling is surprising clarity: the sense of suddenly seeing a larger pattern that was already being created through everyday attention and choices.
 
-Reflect does not hide setbacks. It presents them as information that improved understanding and helped reveal a more viable route.
+The user should leave a reflection with greater awareness of three things:
 
-A setback may show:
-
-What repeatedly interrupted progress.
-
-What Chronicle and the user learned.
-
-What adjustment is now available.
-
-Relationship to Other Capabilities
-
-Understand supplies confirmed interpretations.
-
-Organize supplies milestones, steps, pauses, and plan changes.
-
-Redirect supplies route adjustments and recovered continuity.
-
-Reflect may lead the user back to Understand, Organize, or Redirect.
-
-Grow remains separate: Reflect illuminates transformation; Grow recognizes it.
+Where their attention has actually been going.
+What is changing because of it.
+Whether the life being constructed still resembles the direction they chose.
 
 Boundaries
 
 Reflect must never:
 
-Shame or morally judge the user.
+Reflect must never:
 
-Reduce a life to numbers.
-
-Compare the user with other people.
-
+Shame, guilt, or morally judge the user for progress, regression, inconsistency, or change.
+Reduce the user's life to scores, streaks, percentages, or isolated metrics.
+Compare the user with other people or external standards of success.
 Celebrate productivity as an end in itself.
+Manufacture achievements, praise, or positive narratives when the evidence does not support them.
+Hide setbacks, regression, drift, or contradictory evidence in order to make the reflection feel encouraging.
+Turn every completed step or ordinary action into something worthy of recognition.
+Allow reflections to become an on-demand source of reassurance, validation, or reward.
+Trigger a reflection when there is not enough meaningful evidence for it to provide real clarity.
+Use artificial urgency, gamification, streak pressure, or reward loops to make the user seek more reflections.
+Present unconfirmed interpretations from Understand as established truth.
+Assign identities or define who the user is based on observed behavior or project progress.
+Treat temporary behavior as proof of permanent character or capacity.
+Interpret attention patterns without considering relevant changes in the user's environment or circumstances.
+Hide evidence that the user's attention is moving away from directions they explicitly chose.
+Pressure the user to continue a direction simply because prior effort has already been invested in it.
+Present a projection of the future as certainty.
 
-Hide setbacks.
-
-Present unconfirmed interpretations as truth.
-
-Become a constant score that pressures daily behavior.
-
-Replace reflection with confetti or generic praise.
+Reflect exists to restore perspective, not to control motivation. Its responsibility is to make meaningful change visible with enough clarity that the user can see what their attention is helping build.
 
 5. Grow
 
