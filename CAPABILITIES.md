@@ -636,23 +636,23 @@ Reflect must never:
 
 Reflect must never:
 
-Shame, guilt, or morally judge the user for progress, regression, inconsistency, or change.
-Reduce the user's life to scores, streaks, percentages, or isolated metrics.
-Compare the user with other people or external standards of success.
-Celebrate productivity as an end in itself.
-Manufacture achievements, praise, or positive narratives when the evidence does not support them.
-Hide setbacks, regression, drift, or contradictory evidence in order to make the reflection feel encouraging.
-Turn every completed step or ordinary action into something worthy of recognition.
-Allow reflections to become an on-demand source of reassurance, validation, or reward.
-Trigger a reflection when there is not enough meaningful evidence for it to provide real clarity.
-Use artificial urgency, gamification, streak pressure, or reward loops to make the user seek more reflections.
-Present unconfirmed interpretations from Understand as established truth.
-Assign identities or define who the user is based on observed behavior or project progress.
-Treat temporary behavior as proof of permanent character or capacity.
-Interpret attention patterns without considering relevant changes in the user's environment or circumstances.
-Hide evidence that the user's attention is moving away from directions they explicitly chose.
-Pressure the user to continue a direction simply because prior effort has already been invested in it.
-Present a projection of the future as certainty.
+* Shame, guilt, or morally judge the user for progress, regression, inconsistency, or change.
+* Reduce the user's life to scores, streaks, percentages, or isolated metrics.
+* Compare the user with other people or external standards of success.
+* Celebrate productivity as an end in itself.
+* Manufacture achievements, praise, or positive narratives when the evidence does not support them.
+* Hide setbacks, regression, drift, or contradictory evidence in order to make the reflection feel encouraging.
+* Turn every completed step or ordinary action into something worthy of recognition.
+* Allow reflections to become an on-demand source of reassurance, validation, or reward.
+* Trigger a reflection when there is not enough meaningful evidence for it to provide real clarity.
+* Use artificial urgency, gamification, streak pressure, or reward loops to make the user seek more reflections.
+* Present unconfirmed interpretations from Understand as established truth.
+* Assign identities or define who the user is based on observed behavior or project progress.
+* Treat temporary behavior as proof of permanent character or capacity.
+* Interpret attention patterns without considering relevant changes in the user's environment or circumstances.
+* Hide evidence that the user's attention is moving away from directions they explicitly chose.
+* Pressure the user to continue a direction simply because prior effort has already been invested in it.
+* Present a projection of the future as certainty.
 
 Reflect exists to restore perspective, not to control motivation. Its responsibility is to make meaningful change visible with enough clarity that the user can see what their attention is helping build.
 
@@ -660,127 +660,185 @@ Reflect exists to restore perspective, not to control motivation. Its responsibi
 
 Purpose
 
-Grow recognizes evidence that the user is consciously becoming the person they chose to be.
+Grow marks rare moments when a user-chosen change crosses a meaningful threshold and becomes tangible enough to recognize.
 
-It celebrates transformation, including both what the user has begun doing and what they have gradually stopped doing.
+Grow is deliberately exceptional. Its recognition should feel like an unexpected pause in the journey, not like a recurring reward loop. When a meaningful threshold is crossed, Grow gives that transition weight and a lasting, personal symbol connected to what was actually achieved.
+
+Grow does more than celebrate. It makes visible the attention, rhythm, structures, adjustments, and conditions that helped the user reach that threshold. The achievement becomes new evidence about what the user can sustain, overcome, and build under real conditions.
+
+At an intermediate threshold, Grow turns that evidence into momentum. The user is no longer approaching the next stretch with only intention: they now carry greater awareness of what has worked, what they have been able to sustain, and what may need to change.
+
+Grow makes the next meaningful threshold visible and carries what was learned back into navigation, allowing Organize to present viable ways forward based on both the project and the user's evolving reality. The user remains free to choose, modify, reject, or postpone those routes.
+
+Achievement does not create an obligation to act immediately. Grow allows the user to enjoy what was accomplished while making sure that an intermediate success does not silently become the end of a project the user still wants to pursue.
+
+The next stretch begins with more than intention. It begins with evidence.
+
+When the chosen objective itself has been completed, Grow does not manufacture another threshold. It recognizes completion, gives the journey appropriate closure, and leaves the next destination entirely to the user.
+
+Grow exists to give meaningful progress weight without turning progress into a game. It transforms achievement into momentum without turning momentum into pressure.
 
 Core Question
 
-Who am I proving that I can become?
+What has this achievement made real, and what momentum does it create for what comes next?
 
 Reflect asks who the user is becoming. Grow appears when part of that transformation has become real enough to recognize.
 
 What Grow Recognizes
 
+Grow recognizes meaningful thresholds, not categories of activity.
+
+A threshold exists when enough evidence has accumulated for something relevant to the user's chosen direction to be meaningfully different from before.
+
 Grow may recognize:
 
-Completing a meaningful milestone.
+A milestone that represents a real change in the state of the project, rather than simply another completed step.
+A behavior or habit the user chose to develop becoming meaningfully established in their life.
+A behavior the user chose to reduce losing a meaningful amount of influence over their attention or time.
+Recovering a project after interruption when the recovery itself represents meaningful evidence of resilience in the route.
+A new level of sustained rhythm that materially changes what the project can support.
+Producing something tangible that previously existed only as an intention.
+Crossing an intermediate threshold that materially changes the user's position within a larger project.
+Completing the chosen objective itself.
 
-Completing a major project.
+Grow does not recognize an event simply because it happened. The event must carry enough accumulated evidence and meaning to justify stopping the journey and marking it.
 
-Returning to a project after a pause.
-
-Successfully following a recalculated route.
-
-Reducing a behavior that moved the user away from their chosen identity.
-
-Establishing evidence of a new identity.
-
-Crossing a meaningful personal threshold.
-
-Grow does not reward every task or every small action. Small actions accumulate toward meaningful thresholds.
+Intermediate thresholds create momentum toward an objective that remains unfinished. Terminal thresholds recognize that the objective itself has been achieved and deserve a different magnitude of recognition and closure.
 
 Rarity and Magnitude
 
-The rarity of a reward is part of its meaning.
+Grow should feel exceptionally rare.
 
-Recognition must match the magnitude of the transformation. Chronicle should not create daily rewards, constant points, or an economy that makes the reward more important than the change.
+Its scarcity is part of its meaning. Chronicle should not create recognition simply because time has passed, a streak continues, or activity has accumulated. Grow appears only when a meaningful threshold has genuinely been crossed.
 
-Different symbolic levels may distinguish:
+The magnitude of the recognition should match the magnitude of the threshold.
 
-A recovered path.
+Intermediate thresholds may receive smaller but still distinctive symbols that mark progress and create momentum toward the chosen objective.
 
-A completed milestone.
+Terminal thresholds deserve a different level of recognition because the objective itself has been completed. The symbol, reflection, and sense of closure should reflect the full weight of the journey that led there.
 
-A completed project.
+Chronicle should not expose a visible ladder of rewards, empty slots, or predictable unlocks that encourage the user to chase recognition itself.
 
-A major identity transformation.
-
-The exact hierarchy should be validated through product testing rather than overdesigned in advance.
+The exact form and hierarchy of recognition should emerge from the meaning of the threshold and be refined through product testing rather than fixed as a gamified progression system.
 
 Symbolic Rewards
 
-Grow gives symbols, not prizes for productivity.
+Symbolic Rewards
+
+Grow gives symbols to meaningful change. The symbol exists to preserve the memory and significance of a threshold, not to purchase behavior or make the user chase another reward.
+
+A symbol should be specific to what changed. Its form, message, and magnitude should connect directly to the project, habit, or threshold that was crossed.
 
 Possible forms include:
 
-Medals or trophies with a meaningful message.
+A unique digital object or illustration connected to the achievement.
+A medal, trophy, or artifact with a short personal inscription grounded in the user's actual journey.
+A symbolic object related to the domain of the project, such as a pen for writing, a musical object for composition, or another form that makes the threshold immediately recognizable.
+Rare physical artifacts when the magnitude of the achievement and the product model make them appropriate.
 
-Objects representing the magnitude of a transformation.
+The symbol should carry enough specificity that it could not meaningfully belong to just anyone. Chronicle should prefer personal relevance over generic prestige.
 
-Functional unlocks that expand Chronicle carefully.
+Intermediate thresholds should receive quieter symbols. Terminal thresholds may receive more substantial recognition because they represent the completion of the objective itself.
 
-Rare physical artifacts aligned symbolically with the user's journey.
+Symbols must not become currency, points, collectible scarcity, or a visible progression system designed to create craving for the next unlock.
 
-A physical reward should represent what changed, not simply provide another tool. For example, an object with the weight a person has lost can make the transformation tangible.
+Their meaning looks backward toward what became real, even when the moment also creates momentum for what comes next.
 
-The possibility of funding symbolic rewards through product revenue remains an exploratory business-model idea and is not yet a confirmed product commitment.
+The possibility of funding rare physical artifacts through product revenue remains exploratory and should not shape Grow until it proves compatible with Chronicle's principles.
 
-Museum of Identity
+Museum of Becoming
 
-Grow's long-term experience is a museum of identity.
+Grow's long-term experience is a private museum of meaningful thresholds the user has crossed.
 
-It is not a public trophy case or social feed. It is a private collection of symbols showing:
+It is not a public trophy case, social feed, or collection to complete. It is a personal archive of symbols and evidence that preserve moments when something the user intentionally pursued became meaningfully real.
 
-Who the user used to be.
+Each artifact may preserve:
 
-What threshold they crossed.
+The threshold that was crossed.
+The symbol created to represent it.
+The personal inscription associated with that moment.
+What was different before and after the threshold.
+The attention, rhythm, structures, and adjustments that helped make the change possible.
+Relevant evidence from Reflect showing how the journey affected the user's habits and lived patterns.
+What the user learned about what they could sustain, overcome, or build under those conditions.
 
-What they now know they can do.
+The museum should reveal a journey without defining the user's identity for them. Chronicle preserves evidence of what changed; the user decides what those changes mean about who they are.
 
-Which identities they consciously constructed.
+The museum is private by default. The user may choose to share individual artifacts or parts of the journey with someone else, but Grow should never turn transformation into social status or competition.
 
-The museum should allow a person—or someone they intentionally choose—to understand meaningful parts of the journey that brought them to the present.
+Its value should increase through meaning, not volume. A museum with a small number of deeply significant artifacts is more faithful to Grow than a large collection of ordinary achievements.
 
 Routines and Broken Streaks
 
-Grow does not punish a broken streak and does not appear to announce failure.
+Grow does not reward streaks for their own sake and does not treat a broken streak as failure.
 
-When continuity is lost:
+Continuity matters only when it helps sustain a direction the user consciously chose. A streak is evidence, not an objective.
 
-Understand and Redirect help find a new route.
+When a routine is interrupted, Grow remains in the background. Understand and Redirect help determine what changed and whether the route still fits the user's reality.
 
-Grow remains in the background.
+Returning to a project or habit does not automatically deserve recognition. It becomes relevant to Grow only when the return itself crosses a meaningful threshold—for example, when repeated recovery demonstrates that an interruption no longer has the power to end a direction the user still wants to pursue.
 
-Grow returns when the user meaningfully resumes the path.
+Grow should recognize durable change, not uninterrupted perfection.
 
-Returning may itself become a small symbol because it is evidence that interruption did not become abandonment.
+The evidence that matters is not “you never stopped.” It is “you found a way to keep this alive despite change.”
 
 Product
 
-Grow produces symbolic recognition of transformation.
+Product
 
-Its emotional effects may include motivation, confidence, and renewed energy. Its deeper product is evidence: proof that change has already occurred and that further change is possible.
+Grow produces a rare recognition experience when a meaningful threshold has been crossed.
+
+The experience combines three movements:
+
+Recognition
+
+Chronicle marks what became meaningfully real and gives the threshold a lasting, personal symbol connected to the user's actual journey.
+
+Integration
+
+Grow uses evidence from Reflect, Understand, Organize, and Redirect to show what helped make the achievement possible: where attention went, what rhythm became sustainable, which structures worked, what changed along the way, and what the user was able to sustain, overcome, or build under real conditions.
+
+Momentum
+
+At an intermediate threshold, Grow makes the next meaningful threshold visible and uses what has been learned to prepare the next stage of navigation.
+
+Grow does not demand immediate action. The user should be able to enjoy the achievement, rest, and celebrate while leaving the next direction sufficiently visible that the project does not drift into an unintended ending.
+
+Organize then uses the new evidence to present viable routes toward the next threshold. Those routes may preserve the current rhythm, increase or reduce intensity, change structure, or respond to new conditions. The user chooses whether and how to proceed.
+
+At a terminal threshold, Momentum gives way to Closure.
+
+Chronicle recognizes that the chosen objective has been completed, gives the full journey an appropriate level of recognition, and does not manufacture another objective. The next destination belongs entirely to the user.
+
+Grow's deeper product is not the symbol itself. It is evidence made memorable: a moment in which the user can see that conscious attention, sustained rhythm, and repeated choices produced something that once existed only as intention.
 
 Boundaries
 
 Grow must never:
 
-Reward behavior that harms the user.
+* Reward activity simply because it occurred.
+* Treat streaks, frequency, volume, or productivity as achievements by themselves.
+* Create recognition when a meaningful threshold has not actually been crossed.
+* Manufacture thresholds in order to maintain engagement or give the user something to unlock.
+* Turn symbols into points, currency, status, collectible scarcity, or a progression system designed to create craving.
+* Expose a predictable ladder of rewards that encourages the user to pursue recognition instead of the underlying objective.
+* Make the reward more important than the change it represents.
+* Use celebration to pressure the user into immediate action.
+* Assume that crossing a threshold means the next stage should be harder, faster, or more intensive.
+* Treat an intermediate threshold as completion when the user still intends to pursue the larger objective.
+* Manufacture a new objective after a terminal threshold has been reached.
+* Turn satisfaction with an achievement into something the user should feel guilty for enjoying.
+* Assign an identity to the user because of an achievement, habit, or threshold.
+* Present evidence from one context as proof of permanent capacity in every context.
+* Hide the friction, setbacks, redirects, or changes in rhythm that helped produce the achievement.
+* Reward unsafe intensity, obsession, deprivation, or behavior that harms the user.
+* Turn private transformation into social competition or public status by default.
+* Use physical or digital rewards as incentives to capture more of the user's attention.
+* Make Grow frequent enough that recognition becomes expected rather than meaningful.
 
-Incentivize excess, obsession, or unsafe intensity.
+Grow exists to give rare achievements weight, preserve evidence of what became real, and create momentum without creating dependency.
 
-Reward activity without regard to context or identity.
-
-Create daily reward dependency.
-
-Make streak preservation more important than the underlying goal.
-
-Turn private transformation into social competition.
-
-Use artificial scarcity, monetization pressure, or manipulative game mechanics.
-
-Treat a reward as more important than the meaning it represents.
+Its recognition should help the user remember: the next stretch begins with more than intention. It begins with evidence.
 
 System Relationships
 
